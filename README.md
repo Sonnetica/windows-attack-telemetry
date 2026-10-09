@@ -8,7 +8,7 @@ A normalized Windows event dataset derived from four public Splunk Attack Data r
 
 ## Download
 
-[Download attack_scenario.csv](./attack_scenario.csv?raw=true)
+[Download attack_scenario.csv](https://raw.githubusercontent.com/Sonnetica/windows-attack-telemetry/main/attack_scenario.csv)
 
 The CSV contains 1,275 event records from four independent public test recordings. These recordings come from different dates and hosts. They do not represent one continuous attack or a cross-technique campaign.
 
